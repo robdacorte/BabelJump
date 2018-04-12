@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{084B57E9-1B59-0941-C934-C53ADE6458A3}|">
   <MonoDevelop.Ide.ItemProperties.BabelJump PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CameraFollowing.cs">
     <Files>
       <File FileName="Assets/Platform.cs" Line="16" Column="5" />
-      <File FileName="Assets/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player.cs" Line="4" Column="37" />
+      <File FileName="Assets/CameraFollowing.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
